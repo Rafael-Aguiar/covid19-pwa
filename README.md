@@ -1,5 +1,5 @@
 Dados COVID-19 - PWA (projeto DIO)
-Projeto desenvolvido durante bootcamp de React da DIO (Digital Innovation One)
+Projeto desenvolvido durante bootcamp  React Web Developer da DIO (Digital Innovation One)
 
 O projeto consiste em uma PWA (Progressive Web Application) que exibe dados de casos da COVID-19 pelo mundo.
 
@@ -12,13 +12,10 @@ styled-components
 
 Para executar o projeto 💻
 
-clone este repositório
-git clone https://github.com/Rafael-Aguiar/covid19-pwa.git
+Clone este repositório: git clone https://github.com/Rafael-Aguiar/covid19-pwa.git
 
-instale as dependências
-yarn add
+Instale as dependências: yarn add
 
-execute o projeto
-yarn start
+Execute o projeto: yarn start
 
 Ou acesse a aplicação: https://app.netlify.com/sites/covid19-rafael-aguiar/
