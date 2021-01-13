@@ -18,4 +18,4 @@ Instale as dependências: yarn add
 
 Execute o projeto: yarn start
 
-Ou acesse a aplicação: https://app.netlify.com/sites/covid19-rafael-aguiar/
+Ou acesse a aplicação: https://covid19-rafael-aguiar.netlify.app
