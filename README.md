@@ -13,7 +13,7 @@ styled-components
 Para executar o projeto 💻
 
 clone este repositório
-git clone https://github.com/Rafael-Aguiar/covid19-pwa.gi
+git clone https://github.com/Rafael-Aguiar/covid19-pwa.git
 
 instale as dependências
 yarn add
