@@ -21,5 +21,4 @@ yarn add
 execute o projeto
 yarn start
 
-
-Ou acesse a aplicação: Casos de COVID-19 (dio-covid19-pwa.netlify.app)
+Ou acesse a aplicação: https://app.netlify.com/sites/covid19-rafael-aguiar/
