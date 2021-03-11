@@ -1,5 +1,4 @@
-Dados COVID-19 - PWA (projeto DIO)
-Projeto desenvolvido durante bootcamp  React Web Developer da DIO (Digital Innovation One)
+Dados COVID-19 - PWA 
 
 O projeto consiste em uma PWA (Progressive Web Application) que exibe dados de casos da COVID-19 pelo mundo.
 
